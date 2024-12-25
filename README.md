@@ -403,6 +403,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"
+      alt="nats.io"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <p>
