@@ -12,7 +12,7 @@
 </p>
 
 - 💬 Ask me about **Go, Cloud, Web Development, Networking**
-- 📫 How to reachme **sisnikoyan@gmail.com**
+- 📫 How to reach me **sisnikoyan@gmail.com**
 - ⚡ Fun fact **I'm a thrill-seeking motorcycle rider who loves the adrenaline rush !**
 
 <h3 align="left">Contact me:</h3>
